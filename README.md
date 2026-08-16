@@ -91,15 +91,6 @@ geometry. Full details, confusion matrices, ROC curves, and the
 raw-vs-PCA-features ablation are in `figures/` and `results/`, and
 discussed in the accompanying paper.
 
-## AI Use Declaration
-
-Claude (Anthropic) was used to assist with: structuring the codebase and
-pipeline; drafting boilerplate plotting/evaluation code, which was reviewed,
-executed, and verified against the actual data by the author; and
-formatting/copy-editing the accompanying paper. All experimental design
-decisions, dataset selection, and interpretation of results were made and
-verified by the author. See the AI Use Declaration table in the paper for
-full detail per the module's AI usage guidelines.
 
 ## References
 
