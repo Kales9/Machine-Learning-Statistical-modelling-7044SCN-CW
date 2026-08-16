@@ -1,7 +1,7 @@
 # ECG Arrhythmia Classification — Statistical Machine Learning Comparison
 
 **Module:** 7044SCN Machine Learning and Statistical Modelling — Coursework
-**Author:** Animesh Buwa
+**Author:** Shrushti kale
 
 ## Overview
 
